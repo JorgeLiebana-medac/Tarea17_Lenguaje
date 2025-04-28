@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Videojuegos</title>
     <link>https://www.instant-gaming.com/es/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=1070713600&amp;utm_content=58202324531&amp;utm_term=instant%20gaming&amp;gad_source=1&amp;gbraid=0AAAAADNzuvW1m2Z8OQNKNxbSuOFardCzB&amp;gclid=Cj0KCQjwzrzABhD8ARIsANlSWNND7fC5Mb8x2VOPPaywiaSbGkeoixUHyY7lOw9qHUFaknxU-NpPc-UaAoR6EALw_wcB</link>
     <description>Souls</description>
+    <atom:link href="http://github.com/JorgeLiebana-medac/Tarea17_Lenguaje/blob/main/TAREA17%20Lenguaje%20Jorge/Videojuegos.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 28 Apr 2025 08:29:21 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Apr 2025 08:46:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 08:56:41 GMT</lastBuildDate>
     <generator>Absolute RSS Editor</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <image>
+      <url>https://www.google.com/imgres?q=souls%20imagen&amp;imgurl=https%3A%2F%2Fblogking.elpozo-king.com%2Fhubfs%2Fsaga%2520souls-1.jpeg&amp;imgrefurl=https%3A%2F%2Fblogking.elpozo-king.com%2Fnews%2Fsaga-souls-videojuegos-from-software&amp;docid=Mp_DBbPOXgQdUM&amp;tbnid=UrRX244TLY2n8M&amp;vet=12ahUKEwjp_6GprfqMAxWCBdsEHUlzAG0QM3oECGgQAA..i&amp;w=857&amp;h=500&amp;hcb=2&amp;ved=2ahUKEwjp_6GprfqMAxWCBdsEHUlzAG0QM3oECGgQAA</url>
+      <title>Videojuegos</title>
+      <link>https://www.instant-gaming.com/es/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=1070713600&amp;utm_content=58202324531&amp;utm_term=instant%20gaming&amp;gad_source=1&amp;gbraid=0AAAAADNzuvW1m2Z8OQNKNxbSuOFardCzB&amp;gclid=Cj0KCQjwzrzABhD8ARIsANlSWNND7fC5Mb8x2VOPPaywiaSbGkeoixUHyY7lOw9qHUFaknxU-NpPc-UaAoR6EALw_wcB</link>
+      <description>Souls</description>
+    </image>
     <item>
       <title>Elden Ring</title>
       <link>https://www.instant-gaming.com/es/4824-comprar-steam-elden-ring-pc-juego-steam-europe/?_gl=1*1syexc7*_up*MQ..*_gs*MQ..&amp;gclid=Cj0KCQjwzrzABhD8ARIsANlSWNND7fC5Mb8x2VOPPaywiaSbGkeoixUHyY7lOw9qHUFaknxU-NpPc-UaAoR6EALw_wcB&amp;gbraid=0AAAAADNzuvW1m2Z8OQNKNxbSuOFardCzB</link>
